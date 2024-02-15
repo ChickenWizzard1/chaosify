@@ -3,13 +3,13 @@
 The Chaosify Text App is a web application that adds a touch of chaos to your text, creating a fun and quirky effect. This repository contains the source code for the app.
 
 ## How to Use
-# First Option:
+- **First Option:**
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser to launch the app.
 3. Enter your desired text in the provided textarea.
 4. Click the "Submit" button to apply the chaos transformation to the text.
 
-# Second Option:
+- **Second Option:**
 1. Visit Replit link.
 2. Enter your desired text in the provided textarea.
 3. Click the "Submit" button to apply the chaos transformation to the text.
